@@ -1,0 +1,6 @@
+User click on the cart button
+User click on the delivery button
+IsVisible or Not: true
+IsEnabled or Not: false
+IsVisible or Not: true
+Test Passed

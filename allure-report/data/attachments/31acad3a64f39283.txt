@@ -1,0 +1,29 @@
+User click on the cart button
+User click on the delivery button
+IsVisible or Not: true
+User click on the escape key
+IsEnabled or Not: false
+url is: https://www.amazon.in/s?bbn=1389401031&rh=n%3A1389401031%2Cp_89%3AOnePlus&dc&qid=1702277975&rnid=3837712031&ref=lp_1389401031_nr_p_89_4
+The Price is: 39,999
+switched
+The inside price is: 39,999
+The Expected Price is satisfied
+In stock Text verified
+Add to Cart Text verified
+Buy Now Text verified
+Added Cart Text verified
+IsVisible or Not: true
+Cart Text is: Shopping Cart
+Verified that is not equal
+Home and Kitchen Page clicked
+Outside Price is: 323
+Product name is: Yera Glass Mug with Handle-250ml Set of 6 Pieces Mug for Tea, Coffee, Cappuccino, Latte, iced Tea or hot and Cold Beverages | Perfect for Home & Restaurants
+switched
+Inside Price is: 323
+Price Satisfied
+Subtotal is: 40322
+Passed
+Glass price is 323
+Mobile Price is: 39999
+The Total Price is 40322
+Test Passed

@@ -1,0 +1,27 @@
+{
+  "name": "amazon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test --headed",
+    "test:headless": "playwright test",
+    "test:reporter": "playwright test --headed --reporter=allure-playwright,  line, ./my-awesome-reporter.js",
+    "allure-report": "npx allure generate ./allure-results && allure open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "allure-commandline": "^2.25.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.40.1",
+    "@types/node": "^20.10.0",
+    "allure-playwright": "^2.9.2",
+    "experimental-allure-playwright": "0.0.3",
+    "playwright": "^1.40.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  },
+  "description": ""
+}

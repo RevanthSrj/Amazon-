@@ -1,0 +1,8 @@
+User click on the cart button
+User click on the delivery button
+IsVisible or Not: true
+User click on the escape key
+IsEnabled or Not: false
+switched to onePlus page
+IsVisible or Not: true
+Test Passed

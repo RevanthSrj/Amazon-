@@ -1,0 +1,16 @@
+export const mobileButton = "//a[normalize-space()='Mobiles']";
+export const primeCheckbox = "//label[@for='apb-browse-refinements-checkbox_1']/child::i[@class='a-icon a-icon-checkbox']";
+export const onePlusCheckbox = "//i[@class='a-icon a-icon-checkbox']/following::span[@class='a-size-base a-color-base'][text()='OnePlus']";
+export const onePlusLink ="//span[normalize-space()='OnePlus 11R 5G (Sonic Black, 8GB RAM, 128GB Storage)']";
+export const titleText = "//span[@id='productTitle']";
+export const priceOutside = "//span[text()='OnePlus 11R 5G (Sonic Black, 8GB RAM, 128GB Storage)']//ancestor::div[@data-cy='title-recipe']//following-sibling::div[@class='a-section a-spacing-none a-spacing-top-small s-price-instructions-style']//descendant::span[@class='a-price-whole']";
+export const priceInside ="//span[normalize-space()='39,999']";
+export const textInStock = "//span[@class='a-size-medium a-color-success']";
+export const textAddToCart="//div[@class='a-section a-spacing-none a-padding-none']/descendant::input[@id='add-to-cart-button']/following-sibling::span[text()='Add to Cart']";
+export const textBuyNow ="//input[@id='buy-now-button']/following-sibling::span[contains(text(),'Buy Now')]";
+export const clickAddToCart ="//div[@class='a-section a-spacing-none a-padding-none']//input[@id='add-to-cart-button']";
+export const texttAddedToCart ="(//h4[contains(text(), 'Added to Cart')])[2]";
+export const checkOutButton = "//span[@id='attach-sidesheet-checkout-button']/descendant::input";
+export const signIn = "//h1[contains(text(),'Sign in')]";
+export const cart = "//span[contains(text(),'Cart')]";
+export const cartVerify = "//h1[contains(text(),'Shopping Cart')]";
